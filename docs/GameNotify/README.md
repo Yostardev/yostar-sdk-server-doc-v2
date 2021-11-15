@@ -111,13 +111,7 @@ print(ok)
 
 ### 1.6.3 Java验签
 
-#### 1.6.3.1 Java验签函数
-
-TODO
-
-#### 1.6.3.2 Java调用示例
-
-TODO
+> 见`./examples/java/RSAUtils.java`
 
 ### 1.6.4 PHP验签
 
